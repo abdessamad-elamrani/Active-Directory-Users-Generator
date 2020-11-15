@@ -4,7 +4,7 @@ This a Powershell Windows Active Directory script, that will generate  bulk of u
 
 Notes :
 
-+ To run the script
+# Procedure 
 
 1) download both the Users-Generators.ps1 , and bulk_users1.csv files, 
 2) Update bulk_users1.csv with your Users (you may use python or bash to generate a big list)
@@ -18,3 +18,6 @@ Notes :
 
 Note: script tested successfully on windows AD 2016.
 
+
+# Note
+    If you want to generate a long list CSV file of users,  you may use the python code in the repo : bulk_users_csv_file_generator.py
