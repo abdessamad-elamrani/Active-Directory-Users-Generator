@@ -1,0 +1,5 @@
+firstname,middleInitial,lastname,username,email,streetaddress,city,zipcode,state,country,department,password,telephone,jobtitle,company,ou
+client1,,,client1,client1@lab.local,2749 Liberty Street,Dallas,75202,TX,United States,Marketing,1fortinet!,214-800-4820,Marking Specialist,AD Pro,"CN=Users,DC=lab,DC=local"
+client2,,,client2,client2@lab.local,2749 Liberty Street,Dallas,75202,TX,United States,Marketing,1fortinet!,214-800-4820,Marking Specialist,AD Pro,"CN=Users,DC=lab,DC=local"
+client3,,,client3,client3@lab.local,2749 Liberty Street,Dallas,75202,TX,United States,Marketing,1fortinet!,214-800-4820,Marking Specialist,AD Pro,"CN=Users,DC=lab,DC=local"
+client4,,,client4,client4@lab.local,2749 Liberty Street,Dallas,75202,TX,United States,Marketing,1fortinet!,214-800-4820,Marking Specialist,AD Pro,"CN=Users,DC=lab,DC=local"
