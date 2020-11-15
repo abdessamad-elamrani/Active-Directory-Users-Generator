@@ -1,8 +1,8 @@
 # Active-Directory-Users-Generator
 
-This a Powershell Windows Active Directory script, that will generate  bulk of users from a CSV file that contains usernames and other LDAP attributes 
+     This a Powershell Windows Active Directory script, that will generate  bulk of users from a CSV file that contains usernames and other LDAP attributes 
 
-Notes :
+
 
 # Procedure 
 
